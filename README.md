@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img width="600" src="https://media.licdn.com/dms/image/C4D22AQHzjSli4OoZFA/feedshare-shrink_800/0/1668806003277?e=1703116800&v=beta&t=5MPyDkvCfC4DjVDDLOv5cQwM788WsqFUV_JsK2skOtI" alt="Logo">
+    <img width="600" [src="https://media.licdn.com/dms/image/C4D22AQHzjSli4OoZFA/feedshare-shrink_800/0/1668806003277?e=1703116800&v=beta&t=5MPyDkvCfC4DjVDDLOv5cQwM788WsqFUV_JsK2skOtI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-ucPvqWlI4ghSU8PscQMfm6CPwUMGjZuSu7Zhfwlkg&s)" alt="Logo">
   </a>
 
   <h1 align="center">Me - meu portfólio</h3>
